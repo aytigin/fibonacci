@@ -1,4 +1,4 @@
-# fibonacci
+# Fibonacci
 .NET C# Fibonacci sequence viewer (in Norwegian)
 
 For å lære meg .NET C# har jeg fulgt denne tutorial på YouTube, https://www.youtube.com/watch?v=GcFJjpMFJvI hvor man lager et spill hvor brukeren prøver å gjette det tilfeldig genererte tallet.
